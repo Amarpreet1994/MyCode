@@ -1,1 +1,1 @@
-# MyCode
+# Assignments for Core Java
